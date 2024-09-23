@@ -1,0 +1,1 @@
+# plugins-allow-html-in-category-descriptions
