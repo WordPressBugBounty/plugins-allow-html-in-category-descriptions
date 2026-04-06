@@ -1,10 +1,9 @@
 === Allow HTML in Category Descriptions ===
 Contributors: arno.esterhuizen, Timmmy
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SGS5KSM9N4D3Y
 Tags: categories, category descriptions, html, filter
 Requires at least: 2.5
-Tested up to: 6.4.3
-Stable tag: 1.2.4
+Tested up to: 6.9
+Stable tag: 1.2.5
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -53,6 +52,10 @@ This plugin does not do anything other than disable the filters. It does not pro
 (here shown with the Twenty Fourteen theme)
 
 == Changelog ==
+
+= 1.2.5 =
+* Update tested wordpress versions to 6.9.1
+* Fix CVE-2026-0693
 
 = 1.2.4 =
 * Update tested wordpress versions to 6.4.3
